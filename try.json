@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "name": "node1",
+        "branches": [
+            {
+                "id": "2",
+                "name": "node2",
+                "branches": [
+                    {
+                        "id": "3",
+                        "name": "node3",
+                        "leaves": [
+                            "leaf1",
+                            "leaf2"
+                        ]
+                    }, {
+                        "id": "4",
+                        "name": "node4",
+                        "leaves": [
+                            "leaf3",
+                            "leaf4"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "5",
+        "name": "node5",
+        "branches": [
+            {
+                "id": "6",
+                "name": "node6",
+                "leaves": [
+                    "leaf5"
+                ]
+            }
+        ]
+    }
+]
